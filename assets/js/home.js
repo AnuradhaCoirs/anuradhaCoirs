@@ -10,7 +10,7 @@ const productDetailsData = {
       "assets/images/Products/whiteCoirFibre.jpeg",
       "assets/images/Products/coirfiberNew2.jpeg",
       "assets/images/Products/coirfiberNew4.jpeg",
-      "assets/images/Products/fibreExport.jpeg"
+      "assets/images/Products/fibreExport.jpg"
     ],
     pills: ['High Tensile Strength', 'Eco-Friendly', 'Hydraulic Baled', 'Low Moisture', 'Export Certified'],
     specs: [
@@ -479,10 +479,6 @@ $(document).ready(function () {
       }
       if (!phone) {
         showStatus('Please enter your contact phone number.', 'error');
-        return;
-      }
-      if (!message) {
-        showStatus('Please enter your message or inquiry requirements.', 'error');
         return;
       }
 

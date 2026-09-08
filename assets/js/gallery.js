@@ -2,8 +2,6 @@ const galleryData = [
   // 1. Manufacture (from Process Folder)
   { folder: 'Process', filename: 'huskCollection.jpeg', category: 'process', badge: 'Manufacture', label: 'Husk Collection' },
   { folder: 'Process', filename: 'huskSeparation.jpeg', category: 'process', badge: 'Manufacture', label: 'Husk Separation' },
-  { folder: 'Process', filename: 'fibreExtraction.jpeg', category: 'process', badge: 'Manufacture', label: 'Fibre Extraction' },
-  { folder: 'Process', filename: 'drying.jpeg', category: 'process', badge: 'Manufacture', label: 'Coir Drying' },
   { folder: 'Process', filename: 'washing.jpeg', category: 'process', badge: 'Manufacture', label: 'Coco Peat Washing' },
   { folder: 'Process', filename: 'blockMaking.jpeg', category: 'process', badge: 'Manufacture', label: 'Block Pressing' },
   { folder: 'Process', filename: 'blockMaking2.jpeg', category: 'process', badge: 'Manufacture', label: 'Block Pressing' },
@@ -14,7 +12,6 @@ const galleryData = [
 
   // 3. Brand Visuals (from head Folder)
   { folder: 'head', filename: 'HomePageimages.jpeg', category: 'banners', badge: 'Brand Visuals', label: 'Anuradha Coirs' },
-  { folder: 'head', filename: 'Contact-head.jpeg', category: 'banners', badge: 'Brand Visuals', label: 'Reach Out To Us' },
 
   // 4. Products (from Products Folder)
   { folder: 'Products', filename: 'TenderCoconut.jpeg', category: 'products', badge: 'Products', label: 'Tender Coconut' },
@@ -26,7 +23,7 @@ const galleryData = [
   { folder: 'Products', filename: 'GB.jpeg', category: 'products', badge: 'Products', label: 'Cocopeat Grow Bag Slab' },
   { folder: 'Products', filename: 'coirGrowBag.jpeg', category: 'products', badge: 'Products', label: 'Cocopeat Grow Bag Slab' },
   { folder: 'Products', filename: 'coirfiberNew2.jpeg', category: 'products', badge: 'Products', label: 'Premium Coir Fibre' },
-  { folder: 'Products', filename: 'fibreExport.jpeg', category: 'products', badge: 'Products', label: 'Coir Fibre Export Bales' },
+  { folder: 'Products', filename: 'fibreExport.jpg', category: 'products', badge: 'Products', label: 'Coir Fibre Export Bales' },
   { folder: 'Products', filename: 'fullyHuskedCoconut.jpeg', category: 'products', badge: 'Products', label: 'Fully Husked Coconut' },
   { folder: 'Products', filename: 'raw_coconut_husks.jpeg', category: 'products', badge: 'Products', label: 'Raw Coconut Husks' },
   { folder: 'Products', filename: 'openTopGrowBag2.jpeg', category: 'products', badge: 'Products', label: 'Cocopeat Open Top Grow Bag' }
