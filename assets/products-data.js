@@ -11,7 +11,7 @@ const SEED = [
             'assets/images/Products/whiteCoirFibre.jpeg',
             'assets/images/Products/coirfiberNew2.jpeg',
             'assets/images/Products/coirfiberNew4.jpeg',
-            'assets/images/Products/fibreExport.jpeg'
+            'assets/images/Products/fibreExport.jpg'
         ],
         description: 'Premium natural coir fibre extracted from matured coconut husks. Processed using advanced cleaning and drying methods for superior quality. Widely used in mattresses, geo textiles, ropes, brushes, and erosion control products.',
         pills: ['High Tensile Strength', 'Eco-Friendly', 'Hydraulic Baled', 'Low Moisture', 'Export Certified'],
@@ -174,7 +174,7 @@ const SEED = [
         ],
         crops: ['Tomatoes', 'Strawberries', 'Blueberries', 'Bell Peppers', 'Cucumbers', 'Roses'],
         reviews: [
-            { name: 'Sarah Jenkins', location: 'California, USA', rating: 5, comment: 'Outstanding water retention. The block expands beautifully and has a very low EC level which keeps our plants thriving.' },
+            { name: 'Sarah Jenkins', location: 'California, United States of America', rating: 5, comment: 'Outstanding water retention. The block expands beautifully and has a very low EC level which keeps our plants thriving.' },
             { name: 'Marcus Weber', location: 'Munich, Germany', rating: 5, comment: 'Consistent expansion and optimal pH. We have seen a noticeable improvement in root structure since we switched to this coco peat.' },
             { name: 'Anita Desai', location: 'Bangalore, India', rating: 5, comment: 'Premium grade peat with excellent aeration. Clean, uniform quality and expands very quickly after hydration.' }
         ]
@@ -561,7 +561,7 @@ const SEED = [
         ],
         crops: ['Orchids', 'Anthuriums', 'Bromeliads', 'Ferns', 'Succulents'],
         reviews: [
-            { name: 'Evelyn Ross', location: 'Portland, USA', rating: 5, comment: 'Ideal size and very clean chips. My orchids love the airy potting structure it provides. Very slow to decompose.' },
+            { name: 'Evelyn Ross', location: 'Portland, United States of America', rating: 5, comment: 'Ideal size and very clean chips. My orchids love the airy potting structure it provides. Very slow to decompose.' },
             { name: 'Lucas Silva', location: 'Sao Paulo, Brazil', rating: 5, comment: 'Excellent drainage capacity. Use it for landscaping mulch and potting. Retains moisture without getting waterlogged.' },
             { name: 'Chloe Martin', location: 'Vancouver, Canada', rating: 5, comment: 'Consistent chunk size with almost no fine dust. Perfect substrate for high-humidity terrariums as well.' }
         ]
@@ -663,7 +663,7 @@ const SEED = [
         crops: ['Herbs', 'Tomatoes', 'Lettuce', 'Marigolds', 'Cucumbers'],
         reviews: [
             { name: 'Sophie Dubois', location: 'Paris, China', rating: 5, comment: 'Unbelievably fast expansion! These make starting seeds so tidy. Direct transplanting means zero root shock.' },
-            { name: 'James Miller', location: 'Seattle, USA', rating: 5, comment: 'The biodegradable wrap holds together perfectly during hydration. Great germination success rates.' },
+            { name: 'James Miller', location: 'Seattle, United States of America', rating: 5, comment: 'The biodegradable wrap holds together perfectly during hydration. Great germination success rates.' },
             { name: 'Oliver Davis', location: 'Sydney, Australia', rating: 5, comment: 'Super convenient for balcony gardening. Fluffy texture that gives seeds a healthy, airy start.' }
         ]
     },
@@ -924,7 +924,7 @@ const SEED = [
         ],
         crops: ['Tall Coconut Cultivars', 'Dwarf Cultivars', 'Hybrid Palms', 'TxD Palms'],
         reviews: [
-            { name: 'Benjamin Harrison', location: 'Florida, USA', rating: 5, comment: 'Strong, vigorous roots and healthy green leaves. They have established quickly in our sandy coastal soil.' },
+            { name: 'Benjamin Harrison', location: 'Florida, United States of America', rating: 5, comment: 'Strong, vigorous roots and healthy green leaves. They have established quickly in our sandy coastal soil.' },
             { name: 'Wayan Surya', location: 'Bali, Indonesia', rating: 5, comment: 'Healthy seedlings with excellent root structure. Very high survival rate after transplanting in our orchard.' },
             { name: 'Maria Gonzales', location: 'Manila, Philippines', rating: 5, comment: 'Arrived well-packed and healthy. They are showing rapid growth within just a few weeks of planting.' }
         ]

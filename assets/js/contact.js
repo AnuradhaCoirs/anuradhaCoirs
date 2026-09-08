@@ -76,10 +76,6 @@ document.addEventListener("DOMContentLoaded", function () {
         showStatus('Please enter your contact phone number.', 'error');
         return;
       }
-      if (!message) {
-        showStatus('Please enter your message or inquiry requirements.', 'error');
-        return;
-      }
 
       // UI Loading state
       const originalBtnHtml = submitBtn.innerHTML;
