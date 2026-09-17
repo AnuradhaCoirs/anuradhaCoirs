@@ -129,7 +129,7 @@ img {
 }
 
 .main-nav .navbar-brand img {
-    height: 74px;
+    height: 100px;
     transition: all .3s;
 }
 
@@ -3225,7 +3225,7 @@ body {
     }
 
     .main-nav .navbar-brand img {
-        height: 48px !important;
+        height: 60px !important;
         width: auto;
     }
 

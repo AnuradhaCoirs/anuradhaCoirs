@@ -223,7 +223,7 @@
     }
 
     .main-nav .navbar-brand img {
-      height: 74px;
+      height: 100px;
       transition: all 0.3s;
     }
 
@@ -1034,7 +1034,7 @@
       }
 
       .main-nav .navbar-brand img {
-        height: 48px !important;
+        height: 60px !important;
         width: auto;
       }
 
