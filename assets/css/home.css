@@ -266,7 +266,7 @@ body {
 }
 
 .main-nav .navbar-brand img {
-    height: 80px;
+    height: 100px;
     transition: var(--transition);
 }
 
@@ -276,8 +276,8 @@ body {
 
 .main-nav .nav-link {
     font-family: var(--font-body);
-    font-size: 0.82rem;
-    font-weight: 500;
+    font-size: 0.85rem;
+    font-weight: 600;
     letter-spacing: 0.5px;
     color: var(--text-dark) !important;
     padding: 30px 14px !important;
@@ -3051,7 +3051,7 @@ textarea.form-input {
     }
 
     .main-nav .navbar-brand img {
-    height: 48px !important;
+    height: 60px !important;
     width: auto;
     }
 
