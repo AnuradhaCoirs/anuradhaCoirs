@@ -410,7 +410,7 @@ $(document).ready(function () {
         "• **Location**: South India (Tamil Nadu)\n" +
         "• **Enquiry Email**: info@anuradhacoirs.com\n" +
         "• **Orders & Process**: exports@anuradhacoirs.com\n" +
-        "• **India Phone / WhatsApp**: +91 99448 59177 / +91 89407 87924\n" +
+        "• **India Phone / WhatsApp**: +91 99448 59177 / +91 89407 87924 / +91 99767 48413\n" +
         "• **UK Support**: +44 7466 435508\n" +
         "• **United States of America Support**: +1 (206) 391-9622\n" +
         "• **Working Hours**: Monday – Saturday (9:00 AM – 7:00 PM IST)",
@@ -421,7 +421,7 @@ $(document).ready(function () {
       response: "📍 **Anuradha Coirs**\n\n" +
         "• **Location**: South India (Tamil Nadu)\n" +
         "• **Email**: info@anuradhacoirs.com\n" +
-        "• **India Phone / WhatsApp**: +91 99448 59177 / +91 89407 87924\n" +
+        "• **India Phone / WhatsApp**: +91 99448 59177 / +91 89407 87924 / +91 99767 48413\n" +
         "• **UK Support**: +44 7466 435508\n" +
         "• **United States of America Support**: +1 (206) 391-9622\n" +
         "• **Working Hours**: Monday – Saturday (9:00 AM – 7:00 PM IST)",
